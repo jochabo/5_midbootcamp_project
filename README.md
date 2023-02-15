@@ -10,7 +10,7 @@ distributed around the city and if it does make more sense to buy or rent an apa
 
 # 2. Features: 
 
-Check out my project presentation for a quick overview or my [Tableau_Page](https://public.tableau.com/views/Mid-Bootcamp/Sheet5?:language=en-US&:display_count=n&:origin=viz_share_link) to get some data evaluation insights. 
+Check out my [project presentation](https://github.com/jochabo/5_midbootcamp_project/blob/main/Mid-Bootcamp%20Project.pdf) for a quick overview or my [Tableau_Page](https://public.tableau.com/views/Mid-Bootcamp/Sheet5?:language=en-US&:display_count=n&:origin=viz_share_link) to get some data evaluation insights. 
 
 
 # 3. Data: 
