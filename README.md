@@ -10,14 +10,10 @@ distributed around the city and if it does make more sense to buy or rent an apa
 
 # 2. Features: 
 
-Check out my project presentation for a quick overview or my tableau page (https://public.tableau.com/views/Mid-Bootcamp/Sheet5?:language=en-US&:display_count=n&:origin=viz_share_link) to get some data evaluation insights. 
+Check out my project presentation for a quick overview or my [Tableau_Page](https://public.tableau.com/views/Mid-Bootcamp/Sheet5?:language=en-US&:display_count=n&:origin=viz_share_link) to get some data evaluation insights. 
 
-[Tableau_Visualisation](https://public.tableau.com/views/Mid-Bootcamp/Sheet5?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # 3. Data: 
 
 The used datasets are in the folder "collected datasets", additionally the sources are mentioned in the notebook as markdown cells.
 Sources include: OECD, Yahoo Finance, International Coffee Organization (ICO) and Nasa Weather API.
-
-# 4. Model:
-The prediction model was built and optimized using hyperparameters and feature selection. Resulting in the RandomForestRegressor providing the best results in terms of RMSE.
