@@ -12,7 +12,7 @@ distributed around the city and if it does make more sense to buy or rent an apa
 
 Check out my project presentation for a quick overview or my tableau page (https://public.tableau.com/views/Mid-Bootcamp/Sheet5?:language=en-US&:display_count=n&:origin=viz_share_link) to get some data evaluation insights. 
 
-[Tableau_Visualisation](https://link-url-here.org](https://public.tableau.com/views/Mid-Bootcamp/Sheet5?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tableau_Visualisation]([https://www.genome.gov/](https://link-url-here.org](https://public.tableau.com/views/Mid-Bootcamp/Sheet5?:language=en-US&:display_count=n&:origin=viz_share_link))
 
 # 3. Data: 
 
